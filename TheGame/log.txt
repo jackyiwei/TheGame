@@ -1,28 +1,28 @@
-Thu Jun 11 21:19:38 2015
+Thu Jun 11 21:40:15 2015
 Windows-7-6.1.7601-SP1
 Ren'Py 6.99.4.467
  
 
-Bootstrap to the start of init.init took 0.16s
-Early init took 0.05s
-Loader init took 0.00s
-Loading error handling took 0.05s
-Loading script took 1.33s
-Loading persistent took 0.07s
+Bootstrap to the start of init.init took 0.06s
+Early init took 0.02s
+Loader init took 0.01s
+Loading error handling took 0.02s
+Loading script took 0.09s
+Loading persistent took 0.01s
 Importing _renpysteam: ImportError('No module named _renpysteam',)
-Running init code took 0.32s
-Analyze and compile ATL took 0.02s
+Running init code took 0.09s
+Analyze and compile ATL took 0.01s
 Index archives took 0.01s
-Cleaning cache took 0.06s
+Cleaning cache took 0.03s
 Making clean stores took 0.00s
-Creating interface object took 0.48s
+Creating interface object took 0.23s
 Cleaning stores took 0.00s
-Init translation took 0.01s
+Init translation took 0.00s
 Build styles took 0.00s
 Prepare screens took 0.10s
 Running _start took 0.00s
 Performance test:
-Interface start took 0.01s
+Interface start took 0.00s
 
 Windowed mode.
 Screen sizes: virtual=(800, 600) physical=(800, 600)
@@ -383,18 +383,8 @@ Texture testing:
 - 2048px textures work.
 - Target is 5 frames in 0.333333333333 seconds.
 - Frame drawn at 0.000000 seconds.
-- Frame drawn at 0.044000 seconds.
-- Frame drawn at 0.047000 seconds.
-- Frame drawn at 0.073000 seconds.
-- Frame drawn at 0.086000 seconds.
-- 0.086000 seconds to render 5 frames.
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.00s
-Prepare screens took 0.15s
-Running _start took 0.00s
-Cleaning stores took 0.00s
-Init translation took 0.00s
-Build styles took 0.01s
-Prepare screens took 0.08s
-Running _start took 0.00s
+- Frame drawn at 0.030000 seconds.
+- Frame drawn at 0.030000 seconds.
+- Frame drawn at 0.040000 seconds.
+- Frame drawn at 0.062000 seconds.
+- 0.062000 seconds to render 5 frames.
